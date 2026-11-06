@@ -1,0 +1,2 @@
+dna_change,codon_change,protein_change,wt_pI,variant_pI,wt_gravy,variant_gravy,wt_mw_da,variant_mw_da
+c.20A>T,GAG>GTG,p.Glu7Val,6.745,7.128,0.014,0.066,15998.2,15968.2
